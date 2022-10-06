@@ -1,0 +1,16 @@
+C:\Users\matti\Desktop\Rocchi_server01\Rocchi_server01\bin\Debug\net5.0\Rocchi_server01.exe
+C:\Users\matti\Desktop\Rocchi_server01\Rocchi_server01\bin\Debug\net5.0\Rocchi_server01.deps.json
+C:\Users\matti\Desktop\Rocchi_server01\Rocchi_server01\bin\Debug\net5.0\Rocchi_server01.runtimeconfig.json
+C:\Users\matti\Desktop\Rocchi_server01\Rocchi_server01\bin\Debug\net5.0\Rocchi_server01.runtimeconfig.dev.json
+C:\Users\matti\Desktop\Rocchi_server01\Rocchi_server01\bin\Debug\net5.0\Rocchi_server01.dll
+C:\Users\matti\Desktop\Rocchi_server01\Rocchi_server01\bin\Debug\net5.0\ref\Rocchi_server01.dll
+C:\Users\matti\Desktop\Rocchi_server01\Rocchi_server01\bin\Debug\net5.0\Rocchi_server01.pdb
+C:\Users\matti\Desktop\Rocchi_server01\Rocchi_server01\obj\Debug\net5.0\Rocchi_server01.csproj.AssemblyReference.cache
+C:\Users\matti\Desktop\Rocchi_server01\Rocchi_server01\obj\Debug\net5.0\Rocchi_server01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matti\Desktop\Rocchi_server01\Rocchi_server01\obj\Debug\net5.0\Rocchi_server01.AssemblyInfoInputs.cache
+C:\Users\matti\Desktop\Rocchi_server01\Rocchi_server01\obj\Debug\net5.0\Rocchi_server01.AssemblyInfo.cs
+C:\Users\matti\Desktop\Rocchi_server01\Rocchi_server01\obj\Debug\net5.0\Rocchi_server01.csproj.CoreCompileInputs.cache
+C:\Users\matti\Desktop\Rocchi_server01\Rocchi_server01\obj\Debug\net5.0\Rocchi_server01.dll
+C:\Users\matti\Desktop\Rocchi_server01\Rocchi_server01\obj\Debug\net5.0\ref\Rocchi_server01.dll
+C:\Users\matti\Desktop\Rocchi_server01\Rocchi_server01\obj\Debug\net5.0\Rocchi_server01.pdb
+C:\Users\matti\Desktop\Rocchi_server01\Rocchi_server01\obj\Debug\net5.0\Rocchi_server01.genruntimeconfig.cache
